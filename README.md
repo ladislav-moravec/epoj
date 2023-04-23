@@ -1,3 +1,3 @@
-# epoj
+# evidence pojištění
 
-evidence pojištění, program na správu pojištěnců
+program na správu pojištěnců
