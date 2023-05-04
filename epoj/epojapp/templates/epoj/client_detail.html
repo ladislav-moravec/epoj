@@ -9,6 +9,6 @@
     <form method="POST">
         {% csrf_token %}
 
-        {% if user.is_admin %}<button name="edit">Upravit film</button><button name="delete">Smazat film</button>{% endif %}
+        {% if user.is_admin %}<button name="edit">Upravit kietna</button><button name="delete">Smazat klienta</button>{% endif %}
     </form>
 {% endblock %}
